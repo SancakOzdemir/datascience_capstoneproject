@@ -1,0 +1,12 @@
+Berlin	Charlottenburg-Wilmersdorf	341327	52.497058	13.29649
+Berlin	Friedrichshain-Kreuzberg	289120	52.5015	13.43512
+Berlin	Lichtenberg	290493	52.514581	13.498392
+Berlin	Marzahn-Hellersdorf	268739	52.53972	13.58428
+Berlin	Mitte	383457	52.51674	13.36679
+Berlin	Neukölln	330786	52.4802	13.43364
+Berlin	Pankow	407039	52.57105	13.40497
+Berlin	Reinickendorf	264826	52.56755	13.33165
+Berlin	Spandau	243080	52.55009	13.200356
+Berlin	Steglitz-Zehlendorf	308077	52.44364	13.22908
+Berlin	Tempelhof-Schöneberg	351429	52.44763	13.38535
+Berlin	Treptow-Köpenick	269775	52.445817	13.57458
