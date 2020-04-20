@@ -1,0 +1,86 @@
+,Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,Venue Longitude,Venue Distance,Venue Category
+0,Charlottenburg-Wilmersdorf,52.497058,13.29649,Parkhaus Kant-Center,52.50594691300834,13.307516198403272,1239,Parking
+1,Charlottenburg-Wilmersdorf,52.497058,13.29649,Tiefgarage,52.49830668796795,13.296205820856958,140,Parking
+2,Charlottenburg-Wilmersdorf,52.497058,13.29649,CONTIPARK Parkhaus Wilmersdorfer Arcaden,52.5099,13.304278,1523,Parking
+3,Charlottenburg-Wilmersdorf,52.497058,13.29649,Interparking,52.50122769,13.2743408,1571,Parking
+4,Charlottenburg-Wilmersdorf,52.497058,13.29649,Parkhaus Knesebeckstr.,52.50312434695144,13.321853679670653,1846,Parking
+5,Charlottenburg-Wilmersdorf,52.497058,13.29649,CONTIPARK Tiefgarage Leibniz Kolonnaden,52.502822,13.313284,1306,Parking
+6,Charlottenburg-Wilmersdorf,52.497058,13.29649,Mittelstreifen,52.498158,13.297264,133,Parking
+7,Charlottenburg-Wilmersdorf,52.497058,13.29649,Parkplatz P9,52.506866,13.281452,1493,Parking
+8,Charlottenburg-Wilmersdorf,52.497058,13.29649,CONTIPARK Parkhaus ICC,52.502704,13.279946,1285,Parking
+9,Charlottenburg-Wilmersdorf,52.497058,13.29649,Leihhaus,52.502657776624034,13.307422698690594,968,Parking
+10,Friedrichshain-Kreuzberg,52.5015,13.43512,Central Park,52.506963636256,13.429119619521241,731,Parking
+11,Friedrichshain-Kreuzberg,52.5015,13.43512,DB BahnPark Parkplatz Ostbahnhof P1,52.509517,13.434085,895,Parking
+12,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkplatz Metro,52.50987432303624,13.443059921264648,1076,Parking
+13,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkdeck Kottbusser Tor,52.500004,13.4198,1051,Parking
+14,Friedrichshain-Kreuzberg,52.5015,13.43512,X-Berg Parking,52.49948713028755,13.41835901912691,1157,Parking
+15,Friedrichshain-Kreuzberg,52.5015,13.43512,CONTIPARK Parkhaus Arena,52.507473,13.441488,792,Parking
+16,Friedrichshain-Kreuzberg,52.5015,13.43512,Taxihalte Hermannplatz,52.488522,13.424808,1604,Parking
+17,Friedrichshain-Kreuzberg,52.5015,13.43512,Tiefgarage,52.51566486653331,13.440949081310668,1625,Parking
+18,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkzone 49,52.511325,13.448972,1441,Parking
+19,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkhaus ParkCenter,52.491217170560766,13.457596873336879,1905,Parking
+20,Friedrichshain-Kreuzberg,52.5015,13.43512,Tiefgarage Ostbahnhof,52.509124,13.433894,852,Parking
+21,Friedrichshain-Kreuzberg,52.5015,13.43512,Besser Parken Garage,52.4984221729856,13.408904910309992,1809,Parking
+22,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkplatz Wühlischstr. 43,52.50889778137207,13.461840748786926,1989,Parking
+23,Friedrichshain-Kreuzberg,52.5015,13.43512,O2 Busparkplatz,52.504176,13.442494,581,Parking
+24,Friedrichshain-Kreuzberg,52.5015,13.43512,CONTIPARK Tiefgarage Plaza,52.505672,13.441553,636,Parking
+25,Friedrichshain-Kreuzberg,52.5015,13.43512,Parkhaus,52.499622225302225,13.419610656163695,1071,Parking
+26,Friedrichshain-Kreuzberg,52.5015,13.43512,DB BahnPark Tiefgarage Ostbahnhof P2,52.509345,13.43335,881,Parking
+28,Lichtenberg,52.514581,13.498392,Parkhaus Victoria Center,52.50464671290827,13.473811692690642,1999,Parking
+29,Lichtenberg,52.514581,13.498392,Parkhaus Ring-Center,52.51395177619165,13.476735341501465,1468,Parking
+30,Lichtenberg,52.514581,13.498392,Parkplatz Oderstraße,52.509567,13.4719305,1877,Parking
+31,Lichtenberg,52.514581,13.498392,P+R S+U Bhf. Lichtenberg,52.51052280659618,13.500635900926596,476,Parking
+32,Lichtenberg,52.514581,13.498392,Parkplatz Kaisers,52.505069,13.515538,1571,Parking
+33,Lichtenberg,52.514581,13.498392,Tuev,52.528472542762756,13.498828411102295,1546,Parking
+34,Marzahn-Hellersdorf,52.53972,13.58428,P3 Gärten der Welt,52.535198,13.567049,1270,Parking
+35,Marzahn-Hellersdorf,52.53972,13.58428,KaufPark Eiche Parken,52.54829714240735,13.599110577333057,1385,Parking
+36,Mitte,52.51674,13.36679,Parkhaus Hilton Berlin,52.51149369217266,13.3918297290802,1794,Parking
+37,Mitte,52.51674,13.36679,DB BahnPark Tiefgarage Hauptbahnhof P1,52.524463,13.366747,859,Parking
+38,Mitte,52.51674,13.36679,CONTIPARK Tiefgarage Friedrichstadt-Passagen (Q 205),52.513054,13.390762,1674,Parking
+39,Mitte,52.51674,13.36679,Parkplatz Johannisstraße,52.524846,13.390321,1831,Parking
+40,Mitte,52.51674,13.36679,Parkhaus Gleisdreieck,52.502411689614846,13.374710803825925,1682,Parking
+41,Mitte,52.51674,13.36679,CONTIPARK Parkplatz Voßstraße,52.511037,13.379071,1046,Parking
+42,Mitte,52.51674,13.36679,Busparkplatz Hannah-Arendt-Straße,52.513491197169394,13.379774068004217,951,Parking
+43,Mitte,52.51674,13.36679,Busparkplatz Friedrichstrasse 90,52.518242,13.388453,1476,Parking
+44,Mitte,52.51674,13.36679,Q-Park Operncarrée,52.5152093,13.3938169,1838,Parking
+45,Mitte,52.51674,13.36679,Klättos Parkplatz,52.51826069627019,13.384334072068839,1200,Parking
+46,Mitte,52.51674,13.36679,parkhaus,52.51849342902751,13.390981317267402,1650,Parking
+47,Mitte,52.51674,13.36679,PARK ONE Tiefgarage Schultheiss Quartier,52.5265992,13.3438481,1902,Parking
+48,Mitte,52.51674,13.36679,CONTIPARK Tiefgarage Friedrichstadt-Passagen (Q 207),52.513939,13.390086,1608,Parking
+49,Mitte,52.51674,13.36679,Busparkplatz Checkpoint Charlie,52.50768474270686,13.38946120824412,1837,Parking
+50,Mitte,52.51674,13.36679,Conti Parkhaus,52.51387,13.390202,1617,Parking
+51,Mitte,52.51674,13.36679,THR headquarters,52.5088544360078,13.37512627764529,1043,Parking
+52,Mitte,52.51674,13.36679,Interline,52.519423275684666,13.390201529708165,1613,Parking
+53,Mitte,52.51674,13.36679,CONTIPARK Tiefgarage Friedrichstadt-Passagen (Q 206),52.513054,13.390762,1674,Parking
+54,Mitte,52.51674,13.36679,Interparking,52.524149,13.366378,825,Parking
+55,Mitte,52.51674,13.36679,Tiefgarage,52.519957,13.355786,826,Parking
+56,Mitte,52.51674,13.36679,Parkhaus Hauptbahnhof,52.52448566323317,13.368580341339111,870,Parking
+57,Mitte,52.51674,13.36679,Parkhaus LP12,52.510938673181506,13.38160514831543,1193,Parking
+58,Mitte,52.51674,13.36679,Tiefgarage Potsdamer Platz,52.50926446992157,13.373152472290828,937,Parking
+59,Mitte,52.51674,13.36679,Parkhaus Sony Center,52.509409910668836,13.373798530169037,944,Parking
+60,Mitte,52.51674,13.36679,Parking,52.5000996239137,13.362937637339376,1870,Parking
+61,Mitte,52.51674,13.36679,Busparkplatz Strasse Des 17. Juni,52.51770189241197,13.37413875452397,509,Parking
+62,Mitte,52.51674,13.36679,Parkhaus Ludwig-Beck-Straße,52.508788,13.373066,982,Parking
+63,Mitte,52.51674,13.36679,Interparking,52.51103863,13.37929094,1058,Parking
+64,Mitte,52.51674,13.36679,Q-Park Unter den Linden/ Staatsoper,52.517017,13.39519599,1924,Parking
+65,Mitte,52.51674,13.36679,PARK ONE Tiefgarage Excelsior Haus | Anhalter Bahnhof,52.5031111,13.3844918,1933,Parking
+66,Mitte,52.51674,13.36679,ampido Parkplatz Gendarmenmarkt,52.5116118,13.391932,1796,Parking
+67,Mitte,52.51674,13.36679,Fahrradstellplatz Haus D,52.529208,13.373479,1459,Parking
+68,Neukölln,52.4802,13.43364,Parkhaus Neukölln Arcaden,52.481961,13.430913,269,Parking
+69,Neukölln,52.4802,13.43364,Taxihalte Hermannplatz,52.488522,13.424808,1103,Parking
+70,Neukölln,52.4802,13.43364,P+R S Tempelhof,52.46581542082027,13.419324856922389,1872,Parking
+71,Neukölln,52.4802,13.43364,Garage,52.47413058614697,13.453784719836591,1523,Parking
+72,Neukölln,52.4802,13.43364,Parkhaus am Stadtbad Neukölln,52.47944132564045,13.440166708439731,450,Parking
+73,Neukölln,52.4802,13.43364,Kfz-Werkstatt Schneider,52.467194,13.442252,1561,Parking
+74,Pankow,52.57105,13.40497,Garage,52.58644166364027,13.407483100891113,1721,Parking
+75,Reinickendorf,52.56755,13.33165,Dein Stellplatz GmbH,52.56663786961346,13.326789367958959,344,Parking
+76,Reinickendorf,52.56755,13.33165,Interparking,52.56248652,13.32956866,580,Parking
+77,Reinickendorf,52.56755,13.33165,Taxihalte Paracelsus,52.57483735449548,13.347595251226752,1349,Parking
+78,Reinickendorf,52.56755,13.33165,CONTIPARK,52.56248,13.329389,584,Parking
+79,Spandau,52.55009,13.200356,Interparking,52.534837,13.201919,1701,Parking
+80,Spandau,52.55009,13.200356,CONTIPARK Parkhaus Rathaus Spandau,52.535371,13.202606,1645,Parking
+81,Spandau,52.55009,13.200356,Wohnmobilstellplatz,52.5529502,13.200486,318,Parking
+82,Spandau,52.55009,13.200356,CONTIPARK Parkhaus Spandau Altstädter Ring,52.538975,13.201232,1238,Parking
+83,Spandau,52.55009,13.200356,Autovermietung KIEHL,52.554776,13.207327,703,Parking
+84,Tempelhof-Schöneberg,52.44763,13.38535,Tiefgarage beim Ameisenparkplatz,52.45315173773782,13.389709554202419,682,Parking
+85,Tempelhof-Schöneberg,52.44763,13.38535,"Kurfürstendamm/Karlsruherstr, Berlin-Halensee",52.45926133499958,13.387917791484679,1306,Parking

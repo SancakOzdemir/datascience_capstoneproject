@@ -1,0 +1,76 @@
+,Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,Venue Longitude,Venue Distance,Venue Category
+0,Charlottenburg-Wilmersdorf,52.497058,13.29649,Oscars,52.501885,13.307736,932,Movie Theater
+1,Charlottenburg-Wilmersdorf,52.497058,13.29649,Private Cinema,52.513103,13.301306,1815,Movie Theater
+2,Charlottenburg-Wilmersdorf,52.497058,13.29649,Grusel Horror Modus,52.511207580566406,13.31188678741455,1889,Indie Movie Theater
+3,Charlottenburg-Wilmersdorf,52.497058,13.29649,filmkunst66,52.50433402749074,13.31980625798275,1775,Movie Theater
+4,Charlottenburg-Wilmersdorf,52.497058,13.29649,Klick Kino,52.505314,13.299631,943,Movie Theater
+5,Charlottenburg-Wilmersdorf,52.497058,13.29649,Kant-Kino,52.50666546861855,13.308512300610673,1344,Movie Theater
+6,Friedrichshain-Kreuzberg,52.5015,13.43512,UCI Luxe Kino,52.50527707908021,13.442169427871704,636,Multiplex
+7,Friedrichshain-Kreuzberg,52.5015,13.43512,CineStar Treptower Park,52.49196853636573,13.458216653610705,1891,Multiplex
+8,Friedrichshain-Kreuzberg,52.5015,13.43512,Erotixx,52.504363624985274,13.448570052742296,965,Movie Theater
+9,Friedrichshain-Kreuzberg,52.5015,13.43512,Babylon,52.50064513495082,13.417128187942264,1222,Indie Movie Theater
+10,Friedrichshain-Kreuzberg,52.5015,13.43512,regenbogenKINO,52.49621612200503,13.426516889348163,828,Movie Theater
+11,Friedrichshain-Kreuzberg,52.5015,13.43512,Moviemento,52.49047834243085,13.423563140071089,1455,Indie Movie Theater
+12,Friedrichshain-Kreuzberg,52.5015,13.43512,Freiluftkino Insel im Cassiopeia,52.506850334908926,13.454227691332497,1425,Indie Movie Theater
+13,Friedrichshain-Kreuzberg,52.5015,13.43512,Binge Watching,52.488726915576976,13.425259127274032,1571,Indie Movie Theater
+14,Friedrichshain-Kreuzberg,52.5015,13.43512,IL KINO,52.49163582724672,13.432972976382707,1107,Indie Movie Theater
+15,Friedrichshain-Kreuzberg,52.5015,13.43512,Factory Cinema,52.494169,13.446281,1112,Movie Theater
+16,Friedrichshain-Kreuzberg,52.5015,13.43512,Kunsthalle,52.50679444364095,13.42456096163079,926,Movie Theater
+17,Friedrichshain-Kreuzberg,52.5015,13.43512,Am Flutgraben 3,52.497289,13.45158,1209,Movie Theater
+18,Friedrichshain-Kreuzberg,52.5015,13.43512,Floßkino,52.49191613060338,13.441140140388937,1142,Movie Theater
+19,Friedrichshain-Kreuzberg,52.5015,13.43512,fsk Kino,52.50192137511588,13.415113870318526,1356,Indie Movie Theater
+20,Friedrichshain-Kreuzberg,52.5015,13.43512,Franzmann,52.51867,13.438811,1927,Indie Movie Theater
+21,Friedrichshain-Kreuzberg,52.5015,13.43512,Campingplatzkino,52.503157,13.408855,1789,Indie Movie Theater
+22,Friedrichshain-Kreuzberg,52.5015,13.43512,TLGG Sommerkino,52.49644,13.422538,1021,Indie Movie Theater
+23,Friedrichshain-Kreuzberg,52.5015,13.43512,Mobile Kino,52.497932,13.449854,1074,Indie Movie Theater
+24,Friedrichshain-Kreuzberg,52.5015,13.43512,Universum,52.493675,13.434693,871,Movie Theater
+25,Friedrichshain-Kreuzberg,52.5015,13.43512,blickfilm,52.490378,13.424566,1429,Indie Movie Theater
+26,Friedrichshain-Kreuzberg,52.5015,13.43512,Bella Firma Screening Room,52.49060914842979,13.45064030577619,1605,Indie Movie Theater
+27,Friedrichshain-Kreuzberg,52.5015,13.43512,Dachkino am Engelbecken,52.50525665283203,13.417244911193848,1281,Indie Movie Theater
+28,Lichtenberg,52.514581,13.498392,Heimkino,52.510517,13.504206,599,Movie Theater
+29,Marzahn-Hellersdorf,52.53972,13.58428,CineStar Hellersdorf,52.537734684745935,13.603611981602498,1327,Multiplex
+30,Marzahn-Hellersdorf,52.53972,13.58428,Kino Kiste,52.536064211791505,13.609399795532227,1748,Indie Movie Theater
+32,Mitte,52.51674,13.36679,CinemaxX Potsdamer Platz,52.50859119181403,13.373783826828003,1023,Multiplex
+33,Mitte,52.51674,13.36679,MGB Cinema,52.507302,13.381758,1460,Movie Theater
+34,Mitte,52.51674,13.36679,4D Kino im Legoland Discovery Center,52.509740550182364,13.373282567321631,894,Movie Theater
+35,Mitte,52.51674,13.36679,Arri Directors Party,52.513384,13.38657,1391,Movie Theater
+36,Mitte,52.51674,13.36679,bpb Sommerkino,52.508263,13.390676,1873,Indie Movie Theater
+37,Mitte,52.51674,13.36679,cinemaxx Saal 1,52.508589,13.373997,1030,Multiplex
+38,Mitte,52.51674,13.36679,Rutsche @Cinemaxx,52.50851609646001,13.3738374710083,1032,Movie Theater
+39,Mitte,52.51674,13.36679,Arsenal,52.509844465263065,13.37345151708385,890,Indie Movie Theater
+40,Mitte,52.51674,13.36679,CinemaxX Potsdamer Platz | Kino 6,52.52018675816203,13.374697172371123,658,Indie Movie Theater
+41,Mitte,52.51674,13.36679,Lacuna Berlin,52.505274424710414,13.376946603553787,1450,Indie Movie Theater
+42,Mitte,52.51674,13.36679,High End 54,52.525848393326704,13.389474931387277,1840,Indie Movie Theater
+43,Mitte,52.51674,13.36679,Berlinale Palast,52.50717428423364,13.372013568878174,1122,Movie Theater
+44,Mitte,52.51674,13.36679,Show-Palace-Catering im Friedrichstadtpalast,52.52352142333986,13.387825012207035,1612,Indie Movie Theater
+45,Neukölln,52.4802,13.43364,Rollberg Kino,52.478724477299146,13.427944660847354,419,Indie Movie Theater
+46,Neukölln,52.4802,13.43364,Neues Off,52.483398611045594,13.424713921964203,702,Indie Movie Theater
+47,Neukölln,52.4802,13.43364,Sputnik Kino,52.49009392361376,13.410273379093855,1929,Indie Movie Theater
+48,Neukölln,52.4802,13.43364,Fogma,52.47893524169922,13.45265007019043,1296,Movie Theater
+49,Neukölln,52.4802,13.43364,Cineplex Neukölln,52.481990508185426,13.432541252252369,212,Multiplex
+50,Neukölln,52.4802,13.43364,Marcels Filmabend,52.47335414440509,13.426971645869788,886,Indie Movie Theater
+51,Neukölln,52.4802,13.43364,regenbogenKINO,52.49621612200503,13.426516889348163,1847,Movie Theater
+52,Neukölln,52.4802,13.43364,Moviemento,52.49047834243085,13.423563140071089,1332,Indie Movie Theater
+53,Neukölln,52.4802,13.43364,Binge Watching,52.488726915576976,13.425259127274032,1106,Indie Movie Theater
+55,Neukölln,52.4802,13.43364,Passage Kino,52.477532904422084,13.439125090358829,475,Indie Movie Theater
+56,Neukölln,52.4802,13.43364,IL KINO,52.49163582724672,13.432972976382707,1273,Indie Movie Theater
+57,Neukölln,52.4802,13.43364,Factory Cinema,52.494169,13.446281,1775,Movie Theater
+58,Neukölln,52.4802,13.43364,Floßkino,52.49191613060338,13.441140140388937,1399,Movie Theater
+59,Neukölln,52.4802,13.43364,Karlı Sinema,52.481962,13.432592,208,Indie Movie Theater
+60,Neukölln,52.4802,13.43364,WOLF,52.48290035056045,13.441838727774554,631,Movie Theater
+61,Neukölln,52.4802,13.43364,Freiluftkino Hasenheide,52.483665238754114,13.416401534891962,1230,Indie Movie Theater
+62,Neukölln,52.4802,13.43364,TLGG Sommerkino,52.49644,13.422538,1958,Indie Movie Theater
+63,Neukölln,52.4802,13.43364,Universum,52.493675,13.434693,1501,Movie Theater
+64,Neukölln,52.4802,13.43364,blickfilm,52.490378,13.424566,1289,Indie Movie Theater
+65,Neukölln,52.4802,13.43364,Bella Firma Screening Room,52.49060914842979,13.45064030577619,1634,Indie Movie Theater
+66,Neukölln,52.4802,13.43364,Saal 1,52.47700881958008,13.438368797302246,478,Indie Movie Theater
+67,Pankow,52.57105,13.40497,Blauer Stern Pankow,52.58044953616789,13.40124555905411,1076,Movie Theater
+68,Reinickendorf,52.56755,13.33165,City Kino Wedding,52.55847041337959,13.339238274410109,1133,Movie Theater
+69,Reinickendorf,52.56755,13.33165,Film Odası,52.568012803629514,13.31008057783392,1460,Indie Movie Theater
+70,Spandau,52.55009,13.200356,Cineplex Spandau,52.5385405302844,13.20648118111572,1350,Movie Theater
+71,Spandau,52.55009,13.200356,Stadtbücherei Spandau Altstadt Innenhof Freilichtkino,52.53652219,13.20152961,1512,Movie Theater
+72,Spandau,52.55009,13.200356,Saal 1@ Cineplex Spandau,52.54128537465635,13.207267,1086,Multiplex
+73,Spandau,52.55009,13.200356,Open Air Kino Altstadt Spandau,52.536378,13.201557,1528,Indie Movie Theater
+74,Spandau,52.55009,13.200356,Kinocenter Tiebel,52.5585017345745,13.188074109965159,1252,Movie Theater
+75,Tempelhof-Schöneberg,52.44763,13.38535,gleis neun 3/4,52.44649887084961,13.395791053771973,719,Movie Theater
+76,Tempelhof-Schöneberg,52.44763,13.38535,erlebniskino47,52.44851303100586,13.386030197143555,108,Indie Movie Theater
